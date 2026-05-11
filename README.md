@@ -1,2 +1,2 @@
 # PaveLIFE
-Pavement Life-cycle Integrated Framework for Evaluation
+Pavement Life-cycle Integrated Framework for Environmental and Economic Evaluation
